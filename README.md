@@ -5,7 +5,7 @@
 }
 -->
 
-# ARCHIVED
+# Fork 
 
 typescript.nvim is now archived and will no longer receive updates. Please see
 [this issue](https://github.com/jose-elias-alvarez/typescript.nvim/issues/80) for
